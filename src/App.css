@@ -1,6 +1,5 @@
 .App {
   text-align: center;
-  /*height: 100vh;*/
 }
 
 .App-logo {
@@ -36,10 +35,9 @@
 .ui.header.dashboard-header {
   margin-top: 1.5em;
   padding-bottom: 1.5em;
-  font-size: 3rem
+  font-size: 3rem;
 }
 
 .ui.grid > .row > .column {
-  height: 350px;
-  /*width: 350px;*/
+  height: 300px;
 }
